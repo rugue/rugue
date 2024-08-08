@@ -7,6 +7,6 @@ I am Osarugue Enehizena. I'm a software developer that loves everything code
 
 🌱 Technologies I worked with: NodeJs, TypeScript, React Native, MongoDb, ExpressJs, PostgresSQl & Flutter ...
 
-You can reach me on [X](https://twitter.com/nehi_rugue) (formerly called Twitter).
+You can reach me on [LinkedIn](www.linkedin.com/in/osarugue-enehizena-826298122).
 
 Looking Forward to meeting you!
