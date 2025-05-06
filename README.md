@@ -13,7 +13,7 @@ I'm a **FullStack Developer** and **Mobile App Developer** passionate about buil
 **Backend:** Node.js, NestJS, Express  
 **Mobile:** React Native (Expo), Flutter (Dart)  
 **Databases:** MongoDB, PostgreSQL  
-**Cloud:** AWS (Educate), Firebase (basic)  
+**Cloud:** AWS (Educate), Firebase  
 **Tools:** Git, GitHub, Jest, Postman, Swagger  
 
 ## 🚀 Projects
