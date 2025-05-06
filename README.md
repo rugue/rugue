@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Osarugue Enehizena
 
-I'm a **Backend Developer** and **Mobile App Developer** passionate about building scalable systems that solve real-world problems.
+I'm a **FullStack Developer** and **Mobile App Developer** passionate about building scalable systems that solve real-world problems.
 
 ## 💻 What I Do
 - Build and scale APIs using **Node.js**, **NestJS**, **Express**, and **MongoDB/PostgreSQL**
@@ -11,7 +11,7 @@ I'm a **Backend Developer** and **Mobile App Developer** passionate about buildi
 ## 🧰 Tech Stack
 **Languages:** JavaScript, TypeScript, SQL  
 **Backend:** Node.js, NestJS, Express  
-**Mobile:** React Native (Expo)  
+**Mobile:** React Native (Expo), Flutter (Dart)  
 **Databases:** MongoDB, PostgreSQL  
 **Cloud:** AWS (Educate), Firebase (basic)  
 **Tools:** Git, GitHub, Jest, Postman, Swagger  
